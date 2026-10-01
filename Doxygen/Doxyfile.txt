@@ -1,0 +1,37 @@
+
+#---------------------------------------
+# Doxygen Configuration File
+#---------------------------------------
+
+# Project info
+PROJECT_NAME           = "Array Manipulation Assignment"
+PROJECT_BRIEF          = "C program demonstrating modular programming and array manipulation functions."
+OUTPUT_DIRECTORY       = docs
+
+# Input
+INPUT                  = C:/Users/Niamh/source/repos/Assignment1/
+FILE_PATTERNS          = *.c *.h
+RECURSIVE              = YES
+
+# Extraction settings
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+
+# Build settings
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+GENERATE_TREEVIEW      = YES
+
+# Warnings
+WARN_IF_UNDOCUMENTED   = YES
+WARN_NO_PARAMDOC       = YES
+
+# HTML output
+HTML_OUTPUT            = html
+HTML_COLORSTYLE_HUE    = 220
+HTML_COLORSTYLE_SAT    = 150
+HTML_COLORSTYLE_GAMMA  = 80
+
+# Misc
+QUIET                  = NO

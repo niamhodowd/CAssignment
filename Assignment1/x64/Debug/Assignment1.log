@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  main.cpp
+C:\Users\niamh\source\repos\Assignment1\Assignment1\Source.cpp(98,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\niamh\source\repos\Assignment1\Assignment1\Source.cpp(177,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  menuFunctions.cpp
+  Generating Code...
+  Assignment1.vcxproj -> C:\Users\niamh\source\repos\Assignment1\x64\Debug\Assignment1.exe
